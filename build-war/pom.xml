@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<artifactId>helloworld-build</artifactId>
-    <name>BUILD hello world WAR</name>
+    <name>BUILD hello world WAR project</name>
 	<packaging>war</packaging>
 
 	<parent>
